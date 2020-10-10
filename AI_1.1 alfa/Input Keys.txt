@@ -1,0 +1,4 @@
+SPACE - pause
+LCM (in pause) - add element
+"<" - decrease speed
+">" - increase speed
